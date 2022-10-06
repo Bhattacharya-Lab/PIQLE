@@ -17,7 +17,6 @@ $ python config.py
 ```
 
 ### Dependencies
-<b>Multiple sequence alignment (MSA) generator:</b> we use DMPfold to generate MSAs which can be downloaded and installed from<br/>
-https://github.com/psipred/DMPfold
+<b>Multiple sequence alignment (MSA) generator:</b> we use DMPfold to generate MSAs which can be downloaded and installed from https://github.com/psipred/DMPfold
 
 
