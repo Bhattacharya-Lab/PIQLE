@@ -12,4 +12,5 @@ PIQLE can be downloaded and installed by typing
 ```
 $ git clone https://github.com/Bhattacharya-Lab/PIQLE.git
 $ cd PIQLE
+$ python config.py
 ```
