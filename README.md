@@ -17,7 +17,7 @@ $ python config.py
 ```
 
 ### Dependencies
-PIQLE requires multiple sequence alignment (MSA) and we use DMPfold to generate MSAs. DMPfold can be downloaded and installed from<br/>
+<b>Multiple sequence alignment (MSA) generator:</b> we use DMPfold to generate MSAs which can be downloaded and installed from<br/>
 https://github.com/psipred/DMPfold
 
 
