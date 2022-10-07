@@ -46,8 +46,10 @@ Arguments:
   --out OUTDIR      Output directory
 ```
 <b>Example commands to run PIQLE</b><br/><br/>
-IMPORTANT: Please provide absolute path for all the input files including the output directory
+<b>IMPORTANT:</b> Please provide absolute path for all the input files including the output directory
 ```
 python PIQLE.py --tgt example --seq absolute_path/git/example/example.fasta --dec example/decoys/ --ch absolute_path/git/example/example.chain --msa1 absolute_path/git/example/msa/example_A.aln --msa2 absolute_path/example/msa/example_B.aln --a3m1 absolute_path/git/example/msa/example_A.a3m --a3m2 absolute_path/example/msa/example_B.a3m --out absolute_path/example_out/
 ```
-
+<b>Argument descriptions</b><br/><br/>
+* --tgt TARGETNAME: name of the target without any extension <br/>
+* --seq FASTAFILE: fasta file containing both of the sequences of the complex. As a reference please see ```example/example.fasta``` <br\>
