@@ -33,14 +33,14 @@ usage: PIQLE.py [-h] [--tgt TARGETNAME] [--seq FASTAFILE] [--dec DECOYDIR]
 Arguments:
   -h, --help        show this help message and exit
   --tgt TARGETNAME  Target name
-  --seq FASTAFILE   Fasta file.
+  --seq FASTAFILE   Fasta file
   --dec DECOYDIR    Complex decoy directory
-  --ch CHAINFILE    Chain file.
+  --ch CHAINFILE    Chain file
   --msa1 INMSA1     MSA1: Multiple Sequence Alignment of chain 1
   --msa2 INMSA2     MSA2: Multiple Sequence Alignment of chain 2
   --a3m1 INA3M1     A3M of chain1
   --a3m2 INA3M2     A3M of chain2
-  --out OUTDIR      Output directory
+  --out OUTDIR      Output directory.
 ```
 <b>Example commands to run PIQLE</b><br/><br/>
 ```
