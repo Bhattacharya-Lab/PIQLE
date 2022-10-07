@@ -46,8 +46,8 @@ Arguments:
 ```
 python PIQLE.py --tgt example --seq absolute_path/git/example/example.fasta --dec example/decoys/ --ch absolute_path/git/example/example.chain --msa1 absolute_path/git/example/msa/example_A.aln --msa2 absolute_path/example/msa/example_B.aln --a3m1 absolute_path/git/example/msa/example_A.a3m --a3m2 absolute_path/example/msa/example_B.a3m --out absolute_path/example_out/
 ```
-<b>Argument descriptions</b><br/>
-<b>IMPORTANT:</b> Please provide absolute path for all the input files including the output directory<br/><br/>
+<b>Argument descriptions</b><br/><br/>
+<b>IMPORTANT:</b> Please provide absolute path for all the input files including the output directory<br/>
 * --tgt TARGETNAME: name of the target without any extension <br/>
 * --seq FASTAFILE: fasta file containing both of the sequences of the complex. Should be exactly in the same order as the chain order in the PDB. Please see ```example/example.fasta``` <br/>
 * --dec DECOYDIR: directory containing ONLY complex pdb files. Please see ```example/decoys``` <br/>
