@@ -45,4 +45,5 @@ Arguments:
   --a3m2 INA3M2     A3M of chain2
   --out OUTDIR      Output directory
 ```
+Example commands to run PIQLE
 
