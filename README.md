@@ -57,3 +57,6 @@ python PIQLE.py --tgt example --seq absolute_path/git/example/example.fasta --de
 * --a3m1 INA3M1: A3M of chain1 (e.g. '.a3m file') of the first chain in the complex. Please see ```example/msa/example_A.a3m``` <br/>
 * --a3m2 INA3M2: A3M of chain2 (e.g. '.a3m file') of the second chain in the complex. Please see ```example/msa/example_B.a3m``` <br/>
 * --out OUTDIR: output directory. IMPORTANT: an output directory will be created if not already exists.
+
+### Data
+### Cite
