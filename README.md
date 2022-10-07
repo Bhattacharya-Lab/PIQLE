@@ -45,5 +45,9 @@ Arguments:
   --a3m2 INA3M2     A3M of chain2
   --out OUTDIR      Output directory
 ```
-Example commands to run PIQLE
+<b>Example commands to run PIQLE</b><br/><br/>
+IMPORTANT: Please provide absolute path for all the input files including the output directory
+```
+python PIQLE.py --tgt example --seq absolute_path/git/example/example.fasta --dec example/decoys/ --ch absolute_path/git/example/example.chain --msa1 absolute_path/git/example/msa/example_A.aln --msa2 absolute_path/example/msa/example_B.aln --a3m1 absolute_path/git/example/msa/example_A.a3m --a3m2 absolute_path/example/msa/example_B.a3m --out absolute_path/example_out/
+```
 
