@@ -44,7 +44,7 @@ Arguments:
 ```
 <b>Example commands to run PIQLE</b><br/>
 ```
-python PIQLE.py --tgt example --seq absolute_path/git/example/example.fasta --dec example/decoys/ --ch absolute_path/git/example/example.chain --msa1 absolute_path/git/example/msa/example_A.aln --msa2 absolute_path/example/msa/example_B.aln --a3m1 absolute_path/git/example/msa/example_A.a3m --a3m2 absolute_path/example/msa/example_B.a3m --out absolute_path/example_out/
+python PIQLE.py --tgt example --seq absolute_path/example/example.fasta --dec absolute_path/example/decoys/ --ch absolute_path/example/example.chain --msa1 absolute_path/example/msa/example_A.aln --msa2 absolute_path/example/msa/example_B.aln --a3m1 absolute_path/example/msa/example_A.a3m --a3m2 absolute_path/example/msa/example_B.a3m --out absolute_path/example_out/
 ```
 Please see the output ```example/example.PIQLE``` of the above example command.<br/><br/>
 <b>Argument descriptions</b><br/><br/>
