@@ -57,7 +57,7 @@ Please see the output ```example/example.PIQLE``` of the above example command.<
 * --msa2 INMSA2: multiple sequence alignment (e.g. '.aln file') of the second chain in the complex. Please see ```example/msa/example_B.aln``` <br/>
 * --a3m1 INA3M1: A3M of chain1 (e.g. '.a3m file') of the first chain in the complex. Please see ```example/msa/example_A.a3m``` <br/>
 * --a3m2 INA3M2: A3M of chain2 (e.g. '.a3m file') of the second chain in the complex. Please see ```example/msa/example_B.a3m``` <br/>
-* --out OUTDIR: output directory. IMPORTANT: an output directory will be created if it does not already exist.
+* --out OUTDIR: output directory. IMPORTANT: an output directory will be created, if it does not already exist.
 
 ### Data
 ### Cite
