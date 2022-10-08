@@ -60,4 +60,6 @@ Please see the output ```example/example.PIQLE``` of the above example command.<
 * --out OUTDIR: output directory. IMPORTANT: an output directory will be created, if it does not already exist.
 
 ### Data
+1. <a href = "http://fusion.cs.vt.edu/PIQLE/downloads/input_data.tar.gz">Download</a> input data for running PIQLE on both Dockground v1 and Heterodimer-AF2 datasets.
+3. <a href = "http://fusion.cs.vt.edu/PIQLE/downloads/PIQLE.tar.gz">Download</a> PIQLE predictions for Dockground v1 and Heterodimer-AF2 datasets.</br>
 ### Cite
