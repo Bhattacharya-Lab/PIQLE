@@ -52,7 +52,7 @@ Please see the output ```example/example.PIQLE``` of the above example command.<
 * --tgt TARGETNAME: name of the target without any extension <br/>
 * --seq FASTAFILE: fasta file containing both of the sequences of the complex. Should be exactly in the same order as the chain order in the PDB. Please see ```example/example.fasta``` <br/>
 * --dec DECOYDIR: directory containing ONLY complex pdb files. Please see ```example/decoys``` <br/>
-* --ch CHAINFILE: chain identifier of the complex. Only one line with chain ids seperated by space. Should be exactly in the same order as the chain order in the PDB. As a reference, please see ```example/example.chain``` <br/>
+* --ch CHAINFILE: chain identifier of the complex. Only one line with chain ids seperated by space. Should be exactly in the same order as the chain order in the PDB. Please see ```example/example.chain``` <br/>
 * --msa1 INMSA1: multiple sequence alignment (e.g. '.aln file') of the first chain in the complex. Please see ```example/msa/example_A.aln``` <br/>
 * --msa2 INMSA2: multiple sequence alignment (e.g. '.aln file') of the second chain in the complex. Please see ```example/msa/example_B.aln``` <br/>
 * --a3m1 INA3M1: A3M of chain1 (e.g. '.a3m file') of the first chain in the complex. Please see ```example/msa/example_A.a3m``` <br/>
