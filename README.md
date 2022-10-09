@@ -48,7 +48,7 @@ python PIQLE.py --tgt example --seq absolute_path/example/example.fasta --dec ab
 ```
 Please see the output ```example/example.PIQLE``` of the above example command.<br/><br/>
 <b>Argument descriptions</b><br/><br/>
-<b>IMPORTANT:</b> Please provide absolute path for all the input files including the output directory<br/>
+<b>IMPORTANT:</b> Please provide the absolute paths for all the input files including the output directory<br/>
 * --tgt TARGETNAME: name of the target without any extension <br/>
 * --seq FASTAFILE: fasta file containing both of the sequences of the complex. Should be exactly in the same order as the chain order in the PDB. Please see ```example/example.fasta``` <br/>
 * --dec DECOYDIR: directory containing ONLY complex pdb files. Please see ```example/decoys``` <br/>
