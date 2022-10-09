@@ -24,7 +24,7 @@ To run PIQLE, type
 ```
 $ python PIQLE.py
 ```
-You will see the following output
+You should see the following output
 ```
 usage: PIQLE.py [-h] [--tgt TARGETNAME] [--seq FASTAFILE] [--dec DECOYDIR]
                 [--ch CHAINFILE] [--msa1 INMSA1] [--msa2 INMSA2]
