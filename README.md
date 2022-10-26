@@ -38,8 +38,8 @@ Arguments:
   --ch CHAINFILE    Chain file
   --msa1 INMSA1     MSA1: Multiple Sequence Alignment of chain 1
   --msa2 INMSA2     MSA2: Multiple Sequence Alignment of chain 2
-  --a3m1 INA3M1     Aligned fasta of chain1
-  --a3m2 INA3M2     Aligned fasta of chain2
+  --a3m1 INA3M1     MSA1 in A3M format
+  --a3m2 INA3M2     MSA2 in A3M format
   --out OUTDIR      Output directory.
 ```
 <b>Example commands to run PIQLE</b><br/>
