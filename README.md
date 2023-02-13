@@ -1,6 +1,11 @@
-# PIQLE
+# PIQLE: protein-protein interface quality estimation by deep graph learning of multimeric interaction geometries
 
-<h2>Protein-protein Interface Quality Estimation with Deep Graph Learning of Multimeric Geometries</h2>
+by Md Hossain Shuvo, Mohimenul Karim, Rahmatullah Roche, Debswapna Bhattacharya
+
+[[bioRxiv]()] [[pdf]()]
+
+Codebase for our protein-protein interface quality estimation by deep graph learning, PIQLE.
+
 
 ### Environment
 PIQLE is tested on x86_64 Linux system in the following Python environment<br/>
@@ -15,10 +20,6 @@ $ git clone https://github.com/Bhattacharya-Lab/PIQLE.git
 $ cd PIQLE
 $ python config.py
 ```
-
-### Dependencies
-<b>Multiple sequence alignment (MSA) generator:</b> we use DMPfold to generate MSAs which can be downloaded and installed from https://github.com/psipred/DMPfold
-
 ### Usage
 To run PIQLE, type
 ```
@@ -58,8 +59,3 @@ Please see the output ```example/example.PIQLE``` of the above example command.<
 * --a3m1 INA3M1: A3M of chain1 (e.g. '.a3m file') of the first chain in the complex. Please see ```example/msa/example_A.a3m``` <br/>
 * --a3m2 INA3M2: A3M of chain2 (e.g. '.a3m file') of the second chain in the complex. Please see ```example/msa/example_B.a3m``` <br/>
 * --out OUTDIR: output directory. IMPORTANT: an output directory will be created, if it does not already exist.
-
-### Data
-1. <a href = "http://fusion.cs.vt.edu/PIQLE/downloads/input_data.tar.gz">Download</a> input data for running PIQLE on both Dockground v1 and Heterodimer-AF2 datasets.
-3. <a href = "http://fusion.cs.vt.edu/PIQLE/downloads/PIQLE.tar.gz">Download</a> PIQLE predictions for Dockground v1 and Heterodimer-AF2 datasets.</br>
-### Cite
