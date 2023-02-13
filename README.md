@@ -6,6 +6,7 @@ by Md Hossain Shuvo, Mohimenul Karim, Rahmatullah Roche, Debswapna Bhattacharya
 
 Codebase for our protein-protein interface quality estimation by deep graph learning, PIQLE.
 
+![Workflow](./PIQLE.png)
 
 ### Environment
 PIQLE is tested on x86_64 Linux system in the following Python environment<br/>
