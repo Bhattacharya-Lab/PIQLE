@@ -15,14 +15,13 @@ PIQLE is tested on x86_64 Linux system in the following Python environment<br/>
 3. torch 1.10.2 <br/>
 
 ### Download and installation
-PIQLE can be downloaded and installed by typing
 ```
 $ git clone https://github.com/Bhattacharya-Lab/PIQLE.git
 $ cd PIQLE
 $ python config.py
 ```
 ### Usage
-To run PIQLE, type
+To see usage instructions, run
 ```
 $ python PIQLE.py
 ```
