@@ -2,7 +2,7 @@
 
 by Md Hossain Shuvo, Mohimenul Karim, Rahmatullah Roche, Debswapna Bhattacharya
 
-[[bioRxiv]()] [[pdf]()]
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.14.528528v1)] [[pdf](https://www.biorxiv.org/content/10.1101/2023.02.14.528528v1.full.pdf)]
 
 Codebase for our protein-protein interface quality estimation by deep graph learning, PIQLE.
 
