@@ -15,6 +15,8 @@ os.system('chmod -R a+x ' + working_dir + '/apps/*')
 
 #configure glinter
 os.system('chmod -R a+x ' + working_dir + '/apps/glinter/*')
+#download the taxonomy database
+os.system('wget https://zenodo.org/record/5172929/files/names.dmp_species_taxid_better_fixed3_TaxTree?download=1 -O tax_tree -O ' + working_dir + '/apps/glinter/tax_tree')
 os.chdir(working_dir + '/scripts/')
 with open("msa_concat.py", "rt") as input_file:
 	with open("msa_concat_tmp.py", "wt") as output_file:
